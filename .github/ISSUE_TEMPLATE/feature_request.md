@@ -3,7 +3,7 @@ name: "Feature Issue \U0001F4A1"
 about: 'Feature Issue'
 title: ''
 labels: "\U000026A1 Feature"
-assignees: ''
+assignees: 'ljlm0402'
 ---
 
 ## 💁 설명

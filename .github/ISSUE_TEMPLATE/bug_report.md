@@ -3,7 +3,7 @@ name: "Bug Issue \U0001F41B"
 about: 'Bug Issue'
 title: ''
 labels: "\U0001F41E Bug"
-assignees: ''
+assignees: 'ljlm0402'
 ---
 
 ## 💁 설명
